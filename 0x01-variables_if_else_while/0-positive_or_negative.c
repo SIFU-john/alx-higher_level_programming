@@ -1,7 +1,6 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <rand.h>
-#include <RAND_MAX.h>
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
