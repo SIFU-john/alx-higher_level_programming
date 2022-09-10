@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - Entry point
-*Return: Always
-/* betty style doc for function main goes there */
+* main - Entry point
+* Description: using main
+* Return: 0 Always
+*/
 int main(void)
 {
 int n;
