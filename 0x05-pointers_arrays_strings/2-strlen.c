@@ -1,7 +1,8 @@
 /**
  * _strlen - returns the length of a string
+ * main - check the code
  * @s: string to evaluate
- *
+ * Return: Always 0.
  * Return: the length of the string
  */
 int _strlen(char *s)
