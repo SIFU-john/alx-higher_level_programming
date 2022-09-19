@@ -1,4 +1,4 @@
-#incude "main.c"
+#include "main.c"
 /**
  * rev_string - reverses a string
  * @s: string to be reversed
