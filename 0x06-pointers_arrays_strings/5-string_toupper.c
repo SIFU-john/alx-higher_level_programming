@@ -4,7 +4,7 @@
  * to uppercase
  * @s: string to modify
  * Return: Always 0
- * Return: the resulting string
+ * main check the resulting string
  */
 char *string_toupper(char *s)
 {
