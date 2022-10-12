@@ -2,6 +2,7 @@
 #include "function_pointers.h"
 
 /**
+ * main - check the code
  * print_name - prints a name
  * @name: name to print
  * Return: Nothing.
