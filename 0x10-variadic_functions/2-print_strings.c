@@ -2,6 +2,7 @@
 
 /**
  * print_strings - prints strings
+ * Return: Always 0.
  * @separator: separator between strings
  * @n: number of arguments
  */
