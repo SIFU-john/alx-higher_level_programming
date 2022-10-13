@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "function_pointers.h"i
+#include "function_pointers.h"
 /**
  * main - check the code
  * @name: name of the person
